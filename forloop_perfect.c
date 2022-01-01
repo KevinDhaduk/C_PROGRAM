@@ -7,7 +7,7 @@
             printf("Enter N:");
             scanf("%d",&n);
 
-            while(i=1;i<n;i++)
+            for(i=1;i<n;i++)
             {
                 if(n%i==0)
                 {
