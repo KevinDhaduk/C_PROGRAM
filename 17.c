@@ -20,7 +20,7 @@
                 {
                     k=k*(i-j+1)/j;
                 }
-                printf("%4d",k);   
+                printf("%d",k);   
             }
             printf("\n");
         }
